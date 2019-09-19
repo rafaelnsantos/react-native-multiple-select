@@ -1,7 +1,7 @@
 {
-  "name": "react-native-multiple-select",
-  "version": "0.5.3",
-  "description": "Simple multi-select component for react-native",
+  "name": "expo-multiple-select",
+  "version": "0.5.5",
+  "description": "Simple multi-select component for react-native forked from https://github.com/toystars/react-native-multiple-select",
   "main": "index.js",
   "scripts": {
     "precommit": "lint-staged",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/toystars/react-native-multiple-select.git"
+    "url": "git+https://github.com/rafaelnsantos/react-native-multiple-select.git"
   },
   "keywords": [
     "reactnative",
@@ -30,9 +30,9 @@
   "author": "Mustapha Babatunde Oluwaleke",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/toystars/react-native-multiple-select/issues"
+    "url": "https://github.com/rafaelnsantos/react-native-multiple-select/issues"
   },
-  "homepage": "https://github.com/toystars/react-native-multiple-select#readme",
+  "homepage": "https://github.com/rafaelnsantos/react-native-multiple-select#readme",
   "dependencies": {
     "prop-types": "^15.7.2"
   },
