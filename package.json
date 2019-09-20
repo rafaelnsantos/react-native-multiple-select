@@ -1,7 +1,7 @@
 {
   "name": "expo-multiple-select",
-  "version": "0.5.6",
-  "description": "Simple multi-select component for react-native forked from https://github.com/toystars/react-native-multiple-select",
+  "version": "1.0.0",
+  "description": "Select2 component for react-native forked from https://github.com/toystars/react-native-multiple-select",
   "main": "index.js",
   "scripts": {
     "precommit": "lint-staged",
